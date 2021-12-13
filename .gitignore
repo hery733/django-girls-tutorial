@@ -10,3 +10,6 @@ db.sqlite3
 
 # Static folder at project root
 /static/
+
+# Misc
+secret_key.txt
